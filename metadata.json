@@ -1,0 +1,6 @@
+{
+  "name": "License Manager",
+  "description": "Windows desktop and private offline license management system with SQLite database, automated FIFO license assignment, payment proof verification, duration presets, customer CRM, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
